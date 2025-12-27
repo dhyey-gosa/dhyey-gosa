@@ -1,4 +1,4 @@
-# Your Name
+# DHYEY GOSA
 
 ML Engineer | Data Scientist | AI Engineer
 Focus: End-to-end ML systems, Deep Learning, Time Series, Quantitative ML
@@ -8,6 +8,7 @@ Focus: End-to-end ML systems, Deep Learning, Time Series, Quantitative ML
 - Deep learning systems from scratch
 - Real-time inference services
 - Self-improving ML systems
+- Quantitative model using ML 
 
 ## Core Stack
 Python, PyTorch, Scikit-learn, FastAPI, Docker, MLflow, Pandas, NumPy
