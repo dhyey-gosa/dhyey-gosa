@@ -1,16 +1,23 @@
-## Hi there 👋
+# Your Name
 
-<!--
-**dhyey-gosa/dhyey-gosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer | Data Scientist | AI Engineer
+Focus: End-to-end ML systems, Deep Learning, Time Series, Quantitative ML
 
-Here are some ideas to get you started:
+## What I Build
+- Production ML pipelines
+- Deep learning systems from scratch
+- Real-time inference services
+- Self-improving ML systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+Python, PyTorch, Scikit-learn, FastAPI, Docker, MLflow, Pandas, NumPy
+
+## Highlighted Projects
+- [Project Name] – one line impact
+- [Project Name] – one line impact
+- [Project Name] – one line impact
+
+## Engineering Principles
+- Reproducibility first
+- Metrics over intuition
+- Systems over models
