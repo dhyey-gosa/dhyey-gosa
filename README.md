@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyey-patel-0153ab376)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dhyey_1407)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/dhyey-gosa?style=flat-square&logo=github&color=161b22&labelColor=30363d&label=Follow)](https://github.com/dhyey-gosa?tab=followers)&nbsp;
-[![Visitors](https://komarev.com/ghpvc/?username=URTD14&style=flat-square&color=00E5CC&labelColor=0d1117&label=visitors)](https://github.com/URTD14)
+[![Visitors](https://komarev.com/ghpvc/?username=dhyey-gosa&style=flat-square&color=00E5CC&labelColor=0d1117&label=visitors)](https://github.com/URTD14)
 
 </div>
 
