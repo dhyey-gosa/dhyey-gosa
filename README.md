@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Dhyey%20Patel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Technical%20Co-founder%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Quant%20Builder&descAlignY=62&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=00E5CC&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=40&lines=Technical+Co-founder+%40+GLOQONT+%E2%80%94+Pre-Trade+Risk+Intelligence;Built+a+3%2C500-param+Transformer+that+competes+with+BERT;Autonomous+trading+agents+that+evolve+via+fitness+scoring;Everything+built+from+scratch.+No+black+boxes.)](https://github.com/URTD14)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=00E5CC&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=40&lines=Technical+Co-founder+%40+GLOQONT+%E2%80%94+Pre-Trade+Risk+Intelligence;Built+a+3%2C500-param+Transformer+that+competes+with+BERT;Autonomous+trading+agents+that+evolve+via+fitness+scoring;Everything+built+from+scratch.+No+black+boxes.)](https://github.com/dhyey-gosa)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyey-patel-0153ab376)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dhyey_1407)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/dhyey-gosa?style=flat-square&logo=github&color=161b22&labelColor=30363d&label=Follow)](https://github.com/dhyey-gosa?tab=followers)&nbsp;
-[![Visitors](https://komarev.com/ghpvc/?username=dhyey-gosa&style=flat-square&color=00E5CC&labelColor=0d1117&label=visitors)](https://github.com/URTD14)
+[![Visitors](https://komarev.com/ghpvc/?username=dhyey-gosa&style=flat-square&color=00E5CC&labelColor=0d1117&label=visitors)](https://github.com/dhyey-gosa)
 
 </div>
 
@@ -74,23 +74,23 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 [Looped-Transformer](https://github.com/URTD14/Looped-Transformer)
+### 🔁 [Looped-Transformer](https://github.com/dhyey-gosa/Looped-Transformer)
 
 Single thinking layer looped multiple times instead of stacking deep layers. **~3,500 parameters.** BERT uses 110M. Do the math.
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Stars](https://img.shields.io/github/stars/URTD14/Looped-Transformer?style=flat-square&color=00E5CC&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/URTD14/Looped-Transformer?style=flat-square&color=3fb950&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/dhyey-gosa/Looped-Transformer?style=flat-square&color=00E5CC&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/dhyey-gosa/Looped-Transformer?style=flat-square&color=3fb950&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
 
-### 🥊 [AlphaBeta Trading Arena](https://github.com/URTD14/AlphaBeta-trading-arena)
+### 🥊 [AlphaBeta Trading Arena](https://github.com/dhyey-gosa/AlphaBeta-trading-arena)
 
 Autonomous agent arena — strategies **compete, evolve, and survive** in simulated markets. Fitness scoring cuts the weak.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/URTD14/AlphaBeta-trading-arena?style=flat-square&color=00E5CC&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/dhyey-gosa/AlphaBeta-trading-arena?style=flat-square&color=00E5CC&labelColor=0d1117)
 
 </td>
 </tr>
@@ -103,54 +103,43 @@ RAG system that **critiques its own output** and retries with reformulated queri
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Stars](https://img.shields.io/github/stars/URTD14/self-healing-RAG-pipeline?style=flat-square&color=00E5CC&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/dhyey-gosa/self-healing-RAG-pipeline?style=flat-square&color=00E5CC&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 [Compass for Vibecoders](https://github.com/URTD14/Compass-for-Vibecoders)
+### 🧭 [Compass for Vibecoders](https://github.com/dhyey-gosa/Compass-for-Vibecoders)
 
 Open-source **PM router** for AI-assisted dev. Routes tasks, manages scope, stops vibe-coders from shipping spaghetti.
 
-![Stars](https://img.shields.io/github/stars/URTD14/Compass-for-Vibecoders?style=flat-square&color=00E5CC&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/URTD14/Compass-for-Vibecoders?style=flat-square&color=3fb950&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/dhyey-gosa/Compass-for-Vibecoders?style=flat-square&color=00E5CC&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/dhyey-gosa/Compass-for-Vibecoders?style=flat-square&color=3fb950&labelColor=0d1117)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 [Aushadh-AI](https://github.com/URTD14/Aushadh-AI)
+### 💊 [Aushadh-AI](https://github.com/dhyey-gosa/Aushadh-AI)
 
 Live AI-powered **healthcare assistant**. Real-time medical guidance. Production deployed.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Stars](https://img.shields.io/github/stars/URTD14/Aushadh-AI?style=flat-square&color=00E5CC&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/dhyey-gosa/Aushadh-AI?style=flat-square&color=00E5CC&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Demand Forecasting — Live](https://github.com/URTD14/demand-forecasting_model_live)
+### 📦 [Demand Forecasting — Live](https://github.com/dhyey-gosa/demand-forecasting_model_live)
 
 Production-grade **demand forecasting model** deployed live. Real data pipeline, real predictions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/URTD14/demand-forecasting_model_live?style=flat-square&color=00E5CC&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/dhyey-gosa/demand-forecasting_model_live?style=flat-square&color=00E5CC&labelColor=0d1117)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=URTD14&bg_color=0d1117&color=00E5CC&line=00E5CC&point=ffffff&area=true&hide_border=true&area_color=0a2a2a" width="100%"/>
-
-</div>
 
 ---
 
